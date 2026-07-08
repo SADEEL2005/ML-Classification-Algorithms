@@ -1,0 +1,1 @@
+An AI project that analyzes online shopper behavior to predict purchasing intent. Using the KNN algorithm, it evaluates session data (time, page types, bounce rates) to determine if a visit will lead to a transaction, helping e-commerce businesses proactively increase conversion rates and boost sales.
